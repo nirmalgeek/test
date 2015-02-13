@@ -1,0 +1,5 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/xampp/htdocs/socilio/app/webroot/js/plugins/codemirror/mode/xml/xml.js"
+    ]
+}

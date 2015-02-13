@@ -72,9 +72,9 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'root',
-		'password' => '',
-		'database' => 'socillio',
+		'login' => 'DBUserSocilio',
+		'password' => '$Mncr1{yVNx9',
+		'database' => 'socilio',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
